@@ -24,7 +24,7 @@ It demonstrates the use of functions, loops, and user input handling in Python.
 Run the program in your terminal or IDE:
 
 ```bash
-python main.py
+calc.py
 ```
 
 You’ll be prompted to:
