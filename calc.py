@@ -26,7 +26,7 @@ while True:
     else:
         print("Invalid operation")
 
-    print("The result is",r)
+    print(r)
 
     choice = input("Do you want to continue? (y/n): ")
     if choice in "nN":
